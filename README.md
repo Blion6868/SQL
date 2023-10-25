@@ -8,7 +8,7 @@
 
 <h2> The SQL_Queries file showcases queries made using PGAdmin/PostgreSQL.</h2>
 
-<h1>Data Sources</h1>
+<h1>DATA SOURCES</h1>
 
 <h2>Covid: https://github.com/CSSEGISandData/COVID-19</h2>
 
