@@ -9,5 +9,7 @@
 <h2> The SQL_Queries file showcases queries made using PGAdmin/PostgreSQL.</h2>
 
 <h1>Data Sources</h1>
+
 <h2>Covid: https://github.com/CSSEGISandData/COVID-19</h2>
-<h2> Chicago Salary: https://www.chicago.gov/city/en/depts/dhr/dataset/</h2>
+
+<h2>Chicago Salary: https://www.chicago.gov/city/en/depts/dhr/dataset/</h2>
