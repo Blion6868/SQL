@@ -2,7 +2,7 @@
 
 <h1>MOTIVATION</h1>
 
-<h2>This repo showcases my SQL skills, including aggregation, window functions, and CTE. </h2>
+<h2>This repo showcases my SQL skills, including aggregation, window functions, and CTEs. </h2>
 
 <h1>CODE STYLE</h1>
 
